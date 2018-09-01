@@ -8,8 +8,8 @@ public class project {
 
 		System.out.println("Как тебя зовут?");
 		scanner = new Scanner(System.in);
-		String s = scanner.nextLine();
-		System.out.println("Привет " + s);
+		String string = scanner.nextLine();
+		System.out.println("Привет " + string);
 	}
 
 }
