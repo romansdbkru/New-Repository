@@ -1,0 +1,13 @@
+package gIT;
+
+public class GitTest {
+
+	public static void main(String[] args) {
+
+		System.out.println("Привет как дела?");
+
+		System.out.println("Hello world");
+
+	}
+
+}
